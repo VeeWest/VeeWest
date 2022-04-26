@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VeeWest
+- 👋 Hi, I’m @VeeWest/Victoria West
 - 👀 I’m interested in Cosplay
 - 🌱 I’m currently learning AWS
 
